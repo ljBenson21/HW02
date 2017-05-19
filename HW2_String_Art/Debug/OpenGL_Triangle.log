@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\ccampos18\desktop\hw2_string_art\source.cpp(1): warning C4005: '_DEBUG': macro redefinition
+  c:\users\ccampos18\desktop\hw2_string_art\source.cpp(1): note: command-line arguments:  see previous definition of '_DEBUG'
+c:\users\ccampos18\desktop\hw2_string_art\source.cpp(46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ccampos18\desktop\hw2_string_art\source.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL_Triangle.vcxproj -> C:\Users\ccampos18\Desktop\HW2_String_Art\Debug\OpenGL_Triangle.exe
+  OpenGL_Triangle.vcxproj -> C:\Users\ccampos18\Desktop\HW2_String_Art\Debug\OpenGL_Triangle.pdb (Full PDB)
