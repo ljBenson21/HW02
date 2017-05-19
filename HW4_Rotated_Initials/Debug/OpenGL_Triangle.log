@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(1): warning C4005: '_DEBUG': macro redefinition
+  c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(1): note: command-line arguments:  see previous definition of '_DEBUG'
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(42): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(43): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(44): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(52): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ccampos18\desktop\hw4_rotated_initials\source.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL_Triangle.vcxproj -> C:\Users\ccampos18\Desktop\HW4_Rotated_Initials\Debug\OpenGL_Triangle.exe
+  OpenGL_Triangle.vcxproj -> C:\Users\ccampos18\Desktop\HW4_Rotated_Initials\Debug\OpenGL_Triangle.pdb (Full PDB)
